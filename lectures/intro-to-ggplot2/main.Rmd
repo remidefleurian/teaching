@@ -69,7 +69,7 @@ mpg %>%
 
 ### 2.3. Aesthetics
 
-The `x` and `y` arguments are called **aesthetics**. There are many more available aesthetics, to indicate that additional variables should be taken into consideration. Popular aesthetics include `colour`, `fill`, `alpha`, `shape`, or `size`, and a full list is available with the `ggplot2:::.all_aesthetics` command. If additional aesthetics are specified, a legend is automatically created.
+The `x` and `y` arguments are called aesthetics. There are many more available aesthetics, to indicate that additional variables should be taken into consideration. Popular aesthetics include `colour`, `fill`, `alpha`, `shape`, or `size`, and a full list is available with the `ggplot2:::.all_aesthetics` command. If additional aesthetics are specified, a legend is automatically created.
 
 ```{r}
 mpg %>% 
